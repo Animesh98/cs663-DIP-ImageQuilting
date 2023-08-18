@@ -14,4 +14,5 @@ To perform texture synthesis using image quilting.
 * Kiran C. Ranebennur(21Q050017)
 * Aishwarya Mishra(21350010)
 
-# NOTE: This is a repository created to showcase the course project for resume verification proces, there was no github submission at the time of course project evaluation. 
+# NOTE:
+```This is a repository created to showcase the course project for resume verification proces, there was no github submission at the time of course project evaluation. ```
